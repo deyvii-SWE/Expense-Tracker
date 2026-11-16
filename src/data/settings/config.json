@@ -1,0 +1,7 @@
+{
+    "currency": "USD",
+    "locale": "en_US",
+    "date_format": "MM/DD/YYYY",
+    "default_month": "Nov",
+    "expenses_file_path": "src/data/expenses/2026"
+}
